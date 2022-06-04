@@ -19,7 +19,7 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 # Live URL
-https://delarosa0305.github.io/weather-dashboard/
+https://israel386.github.io/open-weather-one-call/
 
 # ScreenShots
 ![screenshots](assets/images/Screenshot%202022-06-03%20211028.png)
